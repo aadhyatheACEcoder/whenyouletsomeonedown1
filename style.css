@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    background-color:red;
+    font-size: 95px;
+}
+#message{
+    display:none;
+}
+#rickroll{
+    display:none;
+}
